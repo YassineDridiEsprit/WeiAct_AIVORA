@@ -1,4 +1,5 @@
 # AgriWei_Zitounti - Farm Management System
+BLOCKCHAIN IA DEV IOT
 
 A comprehensive farm management system built with React + TypeScript frontend and Node.js backend, migrated from Django. This system helps farmers manage their parcels, equipment, personnel, agricultural operations, and inventory.
 
